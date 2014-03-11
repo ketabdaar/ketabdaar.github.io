@@ -25,5 +25,5 @@
 
 .. _DuckDuckGo: https://duckduckgo.com/
 
-.. _Richard_Dawkins: http://loge.github.io/categories/Richard_Dawkins.html
+.. _Richard_Dawkins: http://ketabdaar.github.io/categories/richard_dawkins.html
 
