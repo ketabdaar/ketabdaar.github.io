@@ -40,6 +40,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://ketabdaar.github.io/categories/bertrand_russell.html</loc>
+  <lastmod>2014-03-11</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://ketabdaar.github.io/categories/index.html</loc>
   <lastmod>2014-03-11</lastmod>
   <priority>0.5000</priority>
@@ -81,6 +86,11 @@
  </url>
  <url>
   <loc>http://ketabdaar.github.io/listings/index.html</loc>
+  <lastmod>2014-03-11</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://ketabdaar.github.io/posts/2014/Human_Society_in_Ethics_and_Politics.html</loc>
   <lastmod>2014-03-11</lastmod>
   <priority>0.5000</priority>
  </url>

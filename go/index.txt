@@ -15,6 +15,7 @@
 تگ‌هایی که تاکنون از آن‌ها در این وبلاگ استفاده شده به شرح زیر است (این لیست به‌روز خواهد شد):
 
 - Richard_Dawkins_
+- Bertrand_Russell_
 
 در قسمت ABOUT مختصری دربارهٔ این وبلاگ توضیح داده شده و توسط گزینهٔ RSS می‌توانید مشترک فید اینجا شوید.
 
@@ -26,4 +27,6 @@
 .. _DuckDuckGo: https://duckduckgo.com/
 
 .. _Richard_Dawkins: http://ketabdaar.github.io/categories/richard_dawkins.html
+
+.. _Bertrand_Russell: http://ketabdaar.github.io/categories/bertrand_russell.html
 
