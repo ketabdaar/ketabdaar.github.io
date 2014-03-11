@@ -29,4 +29,3 @@
 .. _Richard_Dawkins: http://ketabdaar.github.io/categories/richard_dawkins.html
 
 .. _Bertrand_Russell: http://ketabdaar.github.io/categories/bertrand_russell.html
-
